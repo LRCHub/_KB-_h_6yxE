@@ -1,0 +1,43 @@
+# Xdinary Heroes – until the end of time
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.50] All this time, I was blind
+[00:04.82] 아무것도 몰랐어, but now that I know
+[00:14.54] Birthday night, blowing lights
+[00:18.48] 늘어가는 촛불을 보면서 난 웃을 수 없었어
+[00:29.98] 
+[00:27.15] 한없이 흘러가는 우리의 시간 멈출 순 없을까
+[00:35.13] 힘껏 어떻게든 안고 싶었지만
+[00:40.73] I know that the end is coming near, 인정하기 싫어
+[00:47.99] Nothing is forever, no
+[00:58.99] 
+[00:52.39] You looked into my eyes
+[00:56.31] Said you'll stay by my side until the end of time
+[01:06.64] 이제는 알잖아
+[01:10.07] 우린 영원할 수가 없다는 걸
+[01:17.57] 
+[01:19.96] As the time passed by
+[01:23.59] 점점 가까워져 가 뚜렷해져만 가
+[01:31.93] I'm breathing out but not alive
+[01:37.19] Cause deep inside I am dying, 소리칠수록 목이 매어 와
+[01:58.69] 
+[01:45.48] 한없이 행복했던 그 날의 기억 온도까지도
+[01:53.36] 난 아직 모든 게 선명하기만 한데
+[01:59.83] I know that the end is coming near, 아직 난 무서워
+[02:07.03] No matter how, still I can't let it go
+[02:26.03] 
+[02:13.75] You looked into my eyes
+[02:17.28] Said you'll stay by my side until the end of time
+[02:27.05] 이제는 알잖아
+[02:30.39] 우린 영원할 수가 없다는 걸, oh
+[02:39.89] 
+[02:40.89] I'm stuck in your lie
+[02:47.84] I'm still in the time
+[02:54.77] I'm stuck in your lie
+[03:01.50] I'm still in the time
+[03:12.00] 
+[03:15.78] All this time, I was blind
+[03:21.89] 아무것도 몰랐어, but now that I know this
+```
