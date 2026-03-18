@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "until the end of time",
+  "base_artist": "Xdinary Heroes",
+  "createdAt": "2026-03-18T13:42:34.174849Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until the End of Time",
+      "artist": "Basixx",
+      "has_synced": false,
+      "path": "select/01_Until_the_End_of_Time_Basixx.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Until the End of Time",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/02_Until_the_End_of_Time_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Until The End Of Time",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/03_Until_The_End_Of_Time_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Until The End Of Time",
+      "artist": "Tupac",
+      "has_synced": true,
+      "path": "select/04_Until_The_End_Of_Time_Tupac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Until The End Of Time",
+      "artist": "Westlife",
+      "has_synced": false,
+      "path": "select/05_Until_The_End_Of_Time_Westlife.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Until the End of Time",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/06_Until_the_End_of_Time_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until the End of Time",
+      "artist": "Foreigner",
+      "has_synced": false,
+      "path": "select/07_Until_the_End_of_Time_Foreigner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Until The End Of Time",
+      "artist": "De/Vision",
+      "has_synced": true,
+      "path": "select/08_Until_The_End_Of_Time_De_Vision.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Until the End of Time (edit)",
+      "artist": "Electronic",
+      "has_synced": false,
+      "path": "select/09_Until_the_End_of_Time_(edit)_Electronic.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until The End Of Time",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/10_Until_The_End_Of_Time_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "until the end of time",
+      "artist": "Xdinary Heroes",
+      "has_synced": true,
+      "path": "select/11_until_the_end_of_time_Xdinary_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Until the End of Time",
+      "artist": "Derek Minor",
+      "has_synced": false,
+      "path": "select/12_Until_the_End_of_Time_Derek_Minor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "until the end of time",
+      "artist": "Xdinary Heroes",
+      "has_synced": false,
+      "path": "select/pl_01_until_the_end_of_time_Xdinary_Heroes.txt"
+    }
+  ]
+}
